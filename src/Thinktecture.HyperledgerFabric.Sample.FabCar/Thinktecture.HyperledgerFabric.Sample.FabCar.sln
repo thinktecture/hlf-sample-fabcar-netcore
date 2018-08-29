@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thinktecture.HyperledgerFabric.Sample.FabCar", "Thinktecture.HyperledgerFabric.Sample.FabCar\Thinktecture.HyperledgerFabric.Sample.FabCar.csproj", "{1F04608D-56EF-4D02-BE4F-857BAD4929A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thinktecture.HyperledgerFabric.Sample.FabCar.Contract", "Thinktecture.HyperledgerFabric.Sample.FabCar.Contract\Thinktecture.HyperledgerFabric.Sample.FabCar.Contract.csproj", "{962FF597-BF24-4E51-A005-15D8FB2DD0B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1F04608D-56EF-4D02-BE4F-857BAD4929A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F04608D-56EF-4D02-BE4F-857BAD4929A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F04608D-56EF-4D02-BE4F-857BAD4929A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962FF597-BF24-4E51-A005-15D8FB2DD0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962FF597-BF24-4E51-A005-15D8FB2DD0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962FF597-BF24-4E51-A005-15D8FB2DD0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962FF597-BF24-4E51-A005-15D8FB2DD0B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
